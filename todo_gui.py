@@ -7,7 +7,7 @@ from tkinter import messagebox
 tasks = []
 
 # ========================
-# FUNCTIONS
+# FUNCTION
 # ========================
 def add_task():
     task = entry_task.get().strip()
